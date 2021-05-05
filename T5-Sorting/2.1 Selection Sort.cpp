@@ -15,7 +15,7 @@ int main() {
 	 	arr.push_back(a);
 	 }
 	 int min=0;
-  for(int i=0;i<n;i++)   //Bubble Sort in Ascending Order
+  for(int i=0;i<n;i++)   
   {
   	   min=i;
   	for(int j=i+1;j<n;j++)
@@ -29,7 +29,7 @@ int main() {
    cout<<"Elements in Descending Order"<<endl;
    for(int i=0;i<n;i++)
     cout<<arr[i]<<" ";	
-      for(int i=0;i<n;i++)   //Bubble Sort in Ascending Order
+      for(int i=0;i<n;i++) 
        {
   	        min=i;
         	for(int j=i+1;j<n;j++)
