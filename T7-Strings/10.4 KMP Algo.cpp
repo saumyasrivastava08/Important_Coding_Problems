@@ -1,7 +1,5 @@
 #include <bits/stdc++.h> 
 using namespace std; 
-
-
 void fillLPS(string str, int *lps){
     int n=str.length(),len=0;
     lps[0]=0;
