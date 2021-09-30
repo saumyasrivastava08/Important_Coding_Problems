@@ -17,4 +17,4 @@ int main(){
   allOccurrences(0, a, n, key);
 }
   
-  
+   
