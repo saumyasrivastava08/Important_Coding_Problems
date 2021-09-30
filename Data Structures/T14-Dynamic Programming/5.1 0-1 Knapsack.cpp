@@ -41,3 +41,18 @@ int main() {
     cout << knapsack(weight,value,w,n) << endl;
     
 }
+
+/*
+Test cases : 
+n = 3 , w = 50
+weight = [10,20,30]
+value = [60,100,120]
+output : 220
+--------------------
+n=4 , w  = 10
+weight = [12, 13, 15, 19]
+value = [10, 20, 30, 40]
+output : 0
+
+Link : https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
+*/
