@@ -17,3 +17,4 @@ int main() {
     cin >> s;
     permutations(0, s);
 }
+
