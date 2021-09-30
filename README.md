@@ -9,6 +9,8 @@
 3. Maintainer will add `hactoberfest` lable, if the issue created by you is relevant.
 4. Don't `Spam` the `PR` otherwise `spam` label can be added to your `PR`.
 5. After creating a `PR` link the issue also.
+6. 5 Questions of Codeforces||Codechef will be counted as 1 `PR`.
+7. One Contest of Codeforces or Codechef will be counted as 1 `PR`.
 
 **If you have any doubt, you can post on Discussions tab.**
 
