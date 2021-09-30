@@ -19,3 +19,4 @@ int main(){
   int n, k; cin >> n >> k;
   cout << NStairs(n, k) << endl;
 }
+
