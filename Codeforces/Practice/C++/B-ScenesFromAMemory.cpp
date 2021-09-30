@@ -1,3 +1,6 @@
+
+Problem : https://codeforces.com/problemset/problem/1562/B
+
 #include <bits/stdc++.h>
 #define ll long long
 #define rep(i, t) for (ll i = 0; i < t; i++)
