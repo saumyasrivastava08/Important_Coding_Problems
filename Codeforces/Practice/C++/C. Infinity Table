@@ -1,0 +1,36 @@
+//https://codeforces.com/contest/1560/problem/C
+#include<bits/stdc++.h>
+using namespace std;
+void solve()
+{
+	int n;
+	cin>> n;
+	int sol=ceil((double)sqrt(n)),res=sqrt(n);
+	res*=res;
+	if(n-res==0)
+	{
+		cout<<sol<<" "<<1<<'\n';
+		return;
+	}
+
+	else if(n-res<sol)
+	{
+		cout<<n-res<<' '<<sol<<'\n';
+		return;
+	}
+
+	else
+	{
+		cout<<sol<<" "<<(sol*sol)-n+1<<'\n';
+	}
+	
+}
+int main()
+{
+	int test;
+	cin>>test;
+	while(test--)
+	{
+		solve();	
+	}
+}
