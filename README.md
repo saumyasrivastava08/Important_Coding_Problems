@@ -6,7 +6,7 @@
 > **Rules for the Contribution.**
 1. Issues will be assigned on **First Come First Service Basis**.
 2. You can create a new `issue`.
-3. Maintainer will add `hactoberfest` lable, if the issue created by you is relevant.
+3. Maintainer will add `hactoberfest` label, if the issue created by you is relevant.
 4. Don't `Spam` the `PR` otherwise `spam` label can be added to your `PR`.
 5. After creating a `PR` link the issue also.
 
