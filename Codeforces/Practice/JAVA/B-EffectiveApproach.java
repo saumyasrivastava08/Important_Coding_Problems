@@ -1,5 +1,29 @@
 // https://codeforces.com/problemset/problem/227/B
 
+// Test Cases:-
+
+// input
+// 2
+// 1 2
+// 1
+// 1
+// output
+// 1 2
+
+// input
+// 2
+// 2 1
+// 1
+// 1
+// output
+// 2 1
+
+// Explanation:-
+
+// In the first sample Vasya's approach will make one comparison (it starts with the 1-st element and immediately finds the required number), and Petya's approach makes two comparisons (first he compares with the 2-nd array element, doesn't find the search item and compares with the 1-st element).
+
+// In the second sample, on the contrary, Vasya's approach will need two comparisons (first with 1-st element, and then with the 2-nd), and Petya's approach will find the required value in one comparison (the first comparison with the 2-nd element).
+
 package below1400;
 
 import java.util.Scanner;
