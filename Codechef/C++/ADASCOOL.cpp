@@ -1,3 +1,4 @@
+// The problem link is https://www.codechef.com/problems/ADASCOOL
 #include <iostream>
 using namespace std;
 
