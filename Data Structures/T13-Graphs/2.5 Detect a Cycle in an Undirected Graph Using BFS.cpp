@@ -34,7 +34,7 @@ public:
       //where -1 represent that there is no parent of this node;
         while (!q.empty()) {
      
-            int node = q.front().first;
+             int node = q.front().first;
             int par = q.front().second;
             q.pop();
      
