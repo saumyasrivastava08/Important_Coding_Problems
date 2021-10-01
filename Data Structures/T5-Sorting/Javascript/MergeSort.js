@@ -30,6 +30,9 @@ const mergeSort = (arr) => {
   return mergeSortedArrays(mergeSort(arr1), mergeSort(arr2));
 };
 
+//Time Complexity - O(nlog(n))
+//Space Complexity - O(nlog(n))
+
 const array = [
   27,
   7,
