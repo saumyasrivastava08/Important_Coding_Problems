@@ -1,6 +1,21 @@
 /* 
 Partition a given string A such that every substring of the partition is a palindrome.
 Return the minimum cuts needed for a palindrome partitioning of A.
+
+Test Cases:
+
+Input 1:
+    A = "aba"
+
+Output 1:
+    0
+
+Input 2:
+    A = "aab"
+    
+Output 2:
+    1
+	
 */
 
 #include <bits/stdc++.h>

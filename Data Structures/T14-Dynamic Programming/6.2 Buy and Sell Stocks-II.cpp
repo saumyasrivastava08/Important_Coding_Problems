@@ -1,3 +1,16 @@
+/*
+Input 1:
+    A = [1, 2, 3]
+
+Output 1:
+    2
+
+Input 2:
+    A = [5, 2, 10]
+
+Output 2:
+    8
+*/
 #include <bits/stdc++.h>
 using namespace std;
 

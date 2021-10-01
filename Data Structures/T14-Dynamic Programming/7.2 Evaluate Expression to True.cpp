@@ -3,6 +3,20 @@ Given an expression, A, with operands and operators (OR , AND , XOR), in how man
 Operands are only true and false.
 
 Return the number of ways to evaluate the expression modulo 10^3 + 3.
+
+Test cases:
+Input 1:
+    A = "T|F"
+
+Output 1:
+    1
+
+Input 2:
+    A = "T^T^F"
+    
+Output 2:
+    0
+	
 */
 #include <bits/stdc++.h>
 using namespace std;

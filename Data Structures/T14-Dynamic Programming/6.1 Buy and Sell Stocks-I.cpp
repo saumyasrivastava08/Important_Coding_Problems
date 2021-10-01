@@ -1,3 +1,22 @@
+/*
+Test cases:
+
+Input 1:
+
+ A = [1, 2]
+ 
+Output 1:
+ 1
+
+Input 2:
+
+ A = [1, 4, 5, 2, 4]
+
+Output 2:
+
+ 4
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
