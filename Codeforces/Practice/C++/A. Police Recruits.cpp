@@ -4,13 +4,13 @@ using namespace std;
 
 int main()
 {
-    int x, cnt=0, hire=0;
-    cin>>x;
-    int arr[x];
-    for(int i=0;i<x;i++){
+    int y, cnt=0, hire=0;
+    cin>>y;
+    int arr[y];
+    for(int i=0;i<y;i++){
         cin>>arr[i];
     }
-    for(int i=0;i<x;i++){
+    for(int i=0;i<y;i++){
         if(arr[i]>0){
             hire=hire+arr[i];
         }
