@@ -1,24 +1,6 @@
-#include <iostream>
-#include <numeric>
-#include <iomanip>
-#include <sstream>
-#include <string>
-#include <list>
-#include <map>
-#include <algorithm>
-#include <string>
-#include <vector>
-#include <set>
-#include <cmath>
-#include <stack>
-#include <unordered_map>
-#include <unordered_set>
-#include <queue>
-#include <numeric>
-#include <iterator>
-#include <bitset> 
-#include <cstring>
+#include<bits/stdc++.h>
 using namespace std;
+
 class Solution {
 // Detect a Cycle in an Undirected Graph Using BFS in Solution class
 public:
