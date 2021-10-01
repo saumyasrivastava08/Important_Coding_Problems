@@ -7,6 +7,17 @@
 //(input)	Enter the number 10	
 //(output)	The factorial is 3628800
 
+// Case 5:
+//(input)	Enter the number 3	
+//(output)	The factorial is 6
+// Case 5:
+//(input)	Enter the number 7	
+//(output)	The factorial is 5040
+
+// Case 5:
+//(input)	Enter the number 8	
+//(output)	The factorial is 40320
+
 // Code
 #include <iostream>
 using namespace std;
