@@ -84,4 +84,8 @@
   - Dynamic Programming
 
 
+## Credit goes to these
+<a href = "https://github.com/saumyasrivastava08/Important_Coding_Problems/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=saumyasrivastava08/Important_Coding_Problems"/>
+</a>
 
