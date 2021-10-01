@@ -62,7 +62,7 @@ int main(){
 		bool ans = obj.isCycle(V, adj);
 		if(ans)
 			cout << "1\n";
-		else cout << "0\n";
+		else cout << "0\n"; 
 	}
 	  return 0;
 } 
