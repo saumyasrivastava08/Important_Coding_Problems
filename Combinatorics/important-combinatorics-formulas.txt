@@ -1,0 +1,6 @@
+Important Combinatorics formulas:
+1.	 (n-1)C(r-1) + (n-1)Cr = nCr  
+2.	  (r)*nCr =  (n)*(n-1)C(r-1)
+3.	  nCr/(r+1) = (n+1)C(r+1)/(n+1)
+4.	  For  .  (Hockey stick identity)
+5.	   What is C(k + 1 — j + r — l, k + 1 — j)
