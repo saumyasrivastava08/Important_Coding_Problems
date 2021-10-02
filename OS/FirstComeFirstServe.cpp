@@ -1,4 +1,5 @@
 #include <iostream>
+#include <graphics.h>
 using namespace std;
 
 void findWaitingTime(int processes[], int n,
